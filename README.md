@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @postedeluz
-- 👀 I’m interested in programinh
+- 👀 I’m interested in programing
 - 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate on idk
 
